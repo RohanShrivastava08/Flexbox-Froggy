@@ -1,0 +1,12 @@
+Q.3 Help all three frogs find their lilypads just by using justify-content. This time, the lilypads have lots of space all around them.
+
+If you find yourself forgetting the possible values for a property, you can click on the property name to view them. Try clicking on justify-content.
+
+
+#pond {
+  display: flex;
+  -----------------
+}
+
+Solution:
+justify-content: space-around;
