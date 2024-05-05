@@ -1,0 +1,9 @@
+Q.7 The frogs need to cross the pond again, this time for some lilypads with plenty of space around them. Use a combination of justify-content and align-items.
+
+#pond {
+  display: flex;
+  ------------------
+}
+
+Solution:
+justify-content: space-around;
