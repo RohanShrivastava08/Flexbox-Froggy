@@ -1,0 +1,14 @@
+Q.10 Help the frogs get to their own lilypads. Although they seem close,
+it will take both flex-direction and justify-content to get them there.
+Notice that when you set the direction to a reversed row or column, start and end are also reversed.
+
+#pond {
+  display: flex;
+--------------------
+--------------------
+}
+
+
+Solution:
+flex-direction: row-reverse;
+    justify-content: flex-end;
