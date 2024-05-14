@@ -1,0 +1,14 @@
+Q.16 Another property you can apply to individual items is align-self.
+This property accepts the same values as align-items and its value for the specific item.
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+----------------
+}
+
+Solution:
+align-self: flex-end;
