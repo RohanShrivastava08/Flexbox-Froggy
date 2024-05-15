@@ -1,0 +1,15 @@
+Q.17 Combine order with align-self to help the frogs to their destinations.
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+---------------
+}
+
+
+Solution:
+align-self: flex-end;
+    order: 1;
